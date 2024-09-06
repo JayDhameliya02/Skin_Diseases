@@ -43,7 +43,7 @@ Installation on Windows using terminal:
 4. python app.py
 
 ## Local host path
-Copy ('http://127.0.0.1:5000/') your locak host path and insert it into any browser to show our dashboard.
+Copy ('http://127.0.0.1:5000/') your local host path and insert it into any browser to show our dashboard.
 
 NOTE : "Edit Model path in 'app.py' file. "
   
